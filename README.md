@@ -21,8 +21,8 @@ Tailwind CSS
 
 JavaScript (ES6+)
 
-📚 Aprendizados
-Este projeto reforça conhecimentos sobre:
+📚 Aprendizados:
+
 
 Componentização em React (TodoForm, TodoItem, TodoList)
 
